@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Bobby-2005-pro/Bobby-2005-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bobby-2005-pro
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=Bobby-2005-pro&color=e8b64a&style=for-the-badge&label=PROFILE+VIEWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="dashboard.svg?v=1" alt="Live GitHub analytics dashboard" width="100%">
+</div>
+
+<p align="center"><sub>Refreshed daily via GitHub Actions — pulls live stats straight from the GitHub API (see <code>scripts/generate-dashboard.mjs</code>).</sub></p>
