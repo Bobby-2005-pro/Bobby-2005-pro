@@ -4,6 +4,11 @@
       "date": "2026-07-31",
       "followers": 1,
       "healthScore": 25
+    },
+    {
+      "date": "2026-08-01",
+      "followers": 2,
+      "healthScore": 24
     }
   ]
 }
